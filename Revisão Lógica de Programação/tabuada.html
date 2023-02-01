@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Funções - tabuada</title>
+  </head>
+  <body>
+    <h1>Tabuada de 1 a 1000</h1>
+    <button onclick="mostrarTabuada()">Mostrar tabuada</button>
+    <button onclick="limparTabuada()">Limpar tabuada</button>
+    <div id="output"></div>
+    <script>
+      const output = document.getElementById('output');
+
+      function mostrarTabuada() {
+        let n1 = parseInt(prompt('Digite um número:'));
+        let msg = '';
+        for (let i = 0; i <= 1000; i++) {
+          msg += `${i} x ${n1} = ${i * n1} <br>`;
+        }
+        output.innerHTML = msg;
+      }
+      function limparTabuada(params) {
+        output.innerHTML = '';
+      }
+    </script>
+  </body>
+</html>
