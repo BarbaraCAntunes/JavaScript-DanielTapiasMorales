@@ -1,6 +1,18 @@
-### Repostório que contém os exercícios e anotações do curso de JavaScript completo - do iniciante ao mestre (2022) lecionado pelo professor Daniel Tapias Morales da plataforma de ensino Udemy. 
+### Curso JavaScript completo - do iniciante ao meste (2022)
 
-#### Conteúdos do curso 👩‍💻:
+👨🏻‍🏫 <strong> Professor: </strong> Daniel Tapias Morales
+<br>
+🖥️ <strong> Plataforma de ensino: </strong> Udemy 
+<br>
+🕒 <strong> Carga Horária: </strong> 113,5 hrs
+<br>
+📒 <strong> Conteúdo deste repositório: </strong> Exercícios e anotações 
+<br>
+⭕ <strong> Concluído em: </strong> em andamento
+<br> 
+
+
+### Conteúdos do curso 👩‍💻:
 
 ✅ Revisão de lógica de programação
 
